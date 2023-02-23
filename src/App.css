@@ -1,0 +1,83 @@
+#intro {
+  background-image: url(../public/headerBackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+#intro h1 {
+  color: rgb(105, 45, 105);
+}
+
+#intro h2 {
+  background-color: aliceblue;
+  font-weight: bold;
+  font-size: x-large;
+  border-radius: 30px;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+#intro code {
+  background-color: aliceblue;
+  font-weight: bold;
+  font-size: large;
+  border-radius: 30px;
+  padding: 5px;
+  margin-bottom: 5px;
+  color: black;
+}
+
+#about,
+#contact {
+  font-size: larger;
+  font-weight: bold;
+  color: rgb(125, 75, 167);
+  padding: 30px;
+}
+#about h1 {
+  margin-bottom: 0;
+}
+#about h2 {
+  margin-bottom: 0;
+  
+}
+
+
+.col-6 {
+  font-size: 25px;
+  padding: 10px;
+}
+#contact input,
+#contact textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+#contact a {
+  color: rgb(125, 75, 167);
+}
+.btn-primary {
+  width: 100%;
+  background-color: rgb(28, 68, 68);
+}
+
+#Portfolio {
+  /* background: slateblue; */
+  padding: 30px;
+  font-size: large;
+}
+
+.card {
+  margin-bottom: 5px;
+}
+
+footer {
+ 
+  color:rgb(125, 75, 167);
+  padding: 30px;
+  font-size: 30px;
+}
+.bg-dark {
+  background-color: rgb(173, 142, 142) !important;
+}
