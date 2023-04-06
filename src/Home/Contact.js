@@ -14,7 +14,7 @@ const Contact = ()=> {
 
             <div className="row">
                 <div className="col-6">
-                    Get in touch! Send me an 
+                    Get in touch! Send me an
                     <a href="mailto:jennannharris@hotmail.com"> email</a>.
                 </div>
                     

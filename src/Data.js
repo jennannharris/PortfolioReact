@@ -7,7 +7,7 @@ export default [
 	},
 
 	{
-		img: "https:///Users/jenniferharris/Desktop/C4-MyCode/FeedbackFormHTML/FeedbackForm.png",
+		img: "https://portfolio.maxmatthe.ws/feedbackForm.png",
 		title: "Feedback Form",
 		text: "My first project all by myself! Recreation of a Google feedback form.",
 		button: "Get Feedback",
@@ -19,28 +19,6 @@ export default [
         button: "Start Watching",
     },
 
-	{
-		img: "https://portfolio.maxmatthe.ws/feedbackForm.png",
-						
-		title: "Weather App",
-		text: "First frontend project modeled after a weather app.",
-		button: "Check the weather",
-	}, 
-						
-	{
-		img: "https://portfolio.maxmatthe.ws/feedbackForm.png",
-		title: "Feedback Form",
-		text: "First frontend project modeled after Google Forms",
-		button: "Get feedback.",
-	},	
-	
-	{
-		img: "https://portfolio.maxmatthe.ws/feedbackForm.png", 				
-		title: "JenFlix",
-		text: "This is my first frontend project modeled after Netflix.",
-		button: "Find something to watch",
-	},
-	
 	{
 		img: "https://portfolio.maxmatthe.ws/feedbackForm.png",
 		title: "Capstone HTML",
